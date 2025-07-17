@@ -14,7 +14,7 @@ Perfect for players who want to experience maximum difficulty challenges or test
 ## ✨ Features
 
 ### 🔥 Endgame System Access
-- **TAB** - Toggle New Game Plus mode on/off
+- **NUM LOCK** - Toggle New Game Plus mode on/off
 - **HOME** - Start Boss Rush mode
 - **PAGE UP** - Advance to next boss in Boss Rush
 - **END** - Clear/exit Boss Rush mode
@@ -41,10 +41,25 @@ Perfect for players who want to experience maximum difficulty challenges or test
 
 | Key | Action | Description |
 |-----|--------|-------------|
-| **TAB** | Toggle NG+ | Enable/disable New Game Plus mode |
+| **NUM LOCK** | Toggle NG+ | Enable/disable New Game Plus mode |
 | **HOME** | Start Boss Rush | Launch boss rush sequence |
 | **PAGE UP** | Next Boss | Advance to next boss in rush |
 | **END** | Clear Boss Rush | Exit boss rush mode |
+
+## ⚠️ Important Warnings
+
+### NG+ Save State Limitation
+**CRITICAL:** Once you save your game while NG+ is enabled, the difficulty becomes permanently locked to NG+ mode for that save file.
+
+**Safe Usage Pattern:**
+1. Toggle NG+ on → Enter area → Experience tough enemies
+2. Leave area → Toggle NG+ off → Re-enter area → Normal difficulty ✅
+
+**Problematic Pattern:**
+1. Toggle NG+ on → **Save game** → Enemies become permanently tough
+2. Toggle NG+ off → Re-enter areas → Enemies still tough ❌
+
+**Recommendation:** Test NG+ mode without saving first. Only save when you're committed to NG+ difficulty for that playthrough.
 
 ## 🎯 Recommended Usage
 

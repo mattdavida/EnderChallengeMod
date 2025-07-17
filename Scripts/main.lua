@@ -1,6 +1,10 @@
+print('------------------------------------------------------------')
+print('LOADING CHALLENGE MOD')
+print('-------------------------------------------------------------')
 local enable_ng_plus = false
-RegisterKeyBind(Key.TAB, {}, function()
+RegisterKeyBind(Key.NUM_LOCK, {}, function()
     local game_mode_zion = FindFirstOf('BP_GameModeZion_C')
+    enable_ng_plus = not enable_ng_plus
     if game_mode_zion then
         if enable_ng_plus then
             game_mode_zion.NewGamePlusGeneration = 1
