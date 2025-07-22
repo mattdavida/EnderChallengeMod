@@ -18,6 +18,8 @@ Perfect for players who want to experience maximum difficulty challenges or test
 - **F2** - Start Boss Rush mode
 - **F3** - Advance to next boss in Boss Rush
 - **F4** - Clear/exit Boss Rush mode
+- **F5** - Spawn Rest Point
+- **F6** - Toggle Boss Logic
 
 ### 🎮 Challenge Applications
 - Test builds against NG+ enemy scaling
