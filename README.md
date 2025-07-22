@@ -45,6 +45,8 @@ Perfect for players who want to experience maximum difficulty challenges or test
 | **F2** | Start Boss Rush | Launch boss rush sequence |
 | **F3** | Next Boss | Advance to next boss in rush |
 | **F4** | Clear Boss Rush | Exit boss rush mode |
+| **F5** | Spawn Rest Point | Spawn rest point anywhere |
+| **F6** | Toggle Boss Logic | Stop / Start boss logic during fight |
 
 ## ⚠️ Important Warnings
 
